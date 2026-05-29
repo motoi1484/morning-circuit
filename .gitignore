@@ -20,3 +20,4 @@ samples/
 # OS / editor / tooling
 .DS_Store
 .claude/
+tools/
