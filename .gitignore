@@ -1,0 +1,22 @@
+# Secrets / credentials
+.env
+*.json.key
+gcp-credentials.json
+service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local build artifacts (episodes are committed under docs/episodes/ by CI)
+/tmp/
+*.log
+
+# Local test outputs (the real episodes live under docs/episodes/)
+samples/
+
+# OS / editor / tooling
+.DS_Store
+.claude/

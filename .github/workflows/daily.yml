@@ -1,0 +1,55 @@
+name: Daily episode
+
+on:
+  schedule:
+    # 20:00 UTC == 05:00 JST (next day). Covers the previous JST calendar day.
+    - cron: "0 20 * * *"
+  workflow_dispatch: {}   # allow manual runs from the Actions tab
+
+permissions:
+  contents: write          # needed to commit the new episode + feed
+
+concurrency:
+  group: daily-episode
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write Google credentials
+        run: printf '%s' '${{ secrets.GCP_SA_KEY }}' > "$RUNNER_TEMP/gcp.json"
+
+      - name: Build today's episode
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp.json
+          PODCAST_BASE_URL: ${{ vars.PODCAST_BASE_URL }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          TARGET_WORDS: ${{ vars.TARGET_WORDS }}
+          KEEP_EPISODES: ${{ vars.KEEP_EPISODES }}
+          TTS_VOICE: ${{ vars.TTS_VOICE }}
+          TTS_RATE: ${{ vars.TTS_RATE }}
+        run: python src/pipeline.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Episode: $(date -u +%Y-%m-%d)"
+            git push
+          fi
