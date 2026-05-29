@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 29 May 2026 09:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:52:44 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Friday, May 29, 2026</title>
+      <description>Top stories: At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal; 007 First Light is the stealthy James Bond game I've dreamed of; You can buy two of Anker’s Qi2 wireless chargers for under $25; Today is the last day to apply to speak at TechCrunch Disrupt 2026; How Ferrari bungled the design of its first EV.</description>
+      <pubDate>Thu, 28 May 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3" length="13534080" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3</guid>
+      <itunes:duration>32:47</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Thursday, May 28, 2026</title>
       <description>Top stories: Here's what Apple's Siri overhaul for iOS 27 could look like; Real-Time AI Video Startup Reactor, Founded by Ex-Apple Engineers, Raises $59 Million From Jeffrey Katzenberg’s WndrCo and Others (EXCLUSIVE); Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial; How to run a local AI chatbot on your iPhone; Olivia Ponton Expands Her Book Podcast to Feature Interviews With Friends, Fans and Celebs as Well as Authors — and She’s Leaning Into the Blonde Stereotype in a ‘Playful’ Way.</description>
