@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Morning Circuit</title>
+    <link>https://motoi1484.github.io/morning-circuit/</link>
+    <language>en-us</language>
+    <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
+    <itunes:author>The Morning Circuit</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Fri, 29 May 2026 09:06:10 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Thursday, May 28, 2026</title>
+      <description>Top stories: Here's what Apple's Siri overhaul for iOS 27 could look like; Real-Time AI Video Startup Reactor, Founded by Ex-Apple Engineers, Raises $59 Million From Jeffrey Katzenberg’s WndrCo and Others (EXCLUSIVE); Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial; How to run a local AI chatbot on your iPhone; Olivia Ponton Expands Her Book Podcast to Feature Interviews With Friends, Fans and Celebs as Well as Authors — and She’s Leaning Into the Blonde Stereotype in a ‘Playful’ Way.</description>
+      <pubDate>Wed, 27 May 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-28.mp3" length="11860608" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-28.mp3</guid>
+      <itunes:duration>30:36</itunes:duration>
+    </item>
+  </channel>
+</rss>
