@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 29 May 2026 20:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:27:08 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Saturday, May 30, 2026</title>
+      <description>Top stories: The groupthink boom: what three top VCs really think about the AI frenzy; Listen to the new Steam Controller buzz to the tune of Doom; Pebblebee’s Halo watches my back and my belongings; The Arduboy FX-C is an excellent time killer you might forget you’re carrying; 5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription.</description>
+      <pubDate>Fri, 29 May 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3" length="12092352" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3</guid>
+      <itunes:duration>30:08</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Friday, May 29, 2026</title>
       <description>Top stories: At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal; 007 First Light is the stealthy James Bond game I've dreamed of; You can buy two of Anker’s Qi2 wireless chargers for under $25; Today is the last day to apply to speak at TechCrunch Disrupt 2026; How Ferrari bungled the design of its first EV.</description>
