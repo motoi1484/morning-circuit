@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 30 May 2026 20:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 20:29:43 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Sunday, May 31, 2026</title>
+      <description>Top stories: 007 First Light is already discounted for the PS5 and Steam; Marathon’s second season is a chance for Bungie to turn things around; NASA confirms exploding meteor caused the sonic boom over Boston; This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors; I went looking for the AI weed vape that gives you Bitcoin for smoking.</description>
+      <pubDate>Sat, 30 May 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3" length="13158720" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3</guid>
+      <itunes:duration>33:04</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Saturday, May 30, 2026</title>
       <description>Top stories: The groupthink boom: what three top VCs really think about the AI frenzy; Listen to the new Steam Controller buzz to the tune of Doom; Pebblebee’s Halo watches my back and my belongings; The Arduboy FX-C is an excellent time killer you might forget you’re carrying; 5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription.</description>
