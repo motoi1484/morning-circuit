@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 31 May 2026 20:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:17:22 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Monday, June 01, 2026</title>
+      <description>Top stories: DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms; Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory; Revolut rolls out services to thousands of users in India ahead of broader launch; Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options; Strava declares war on scrapers ahead of IPO.</description>
+      <pubDate>Sun, 31 May 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-01.mp3" length="13891008" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-01.mp3</guid>
+      <itunes:duration>34:54</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Sunday, May 31, 2026</title>
       <description>Top stories: 007 First Light is already discounted for the PS5 and Steam; Marathon’s second season is a chance for Bungie to turn things around; NASA confirms exploding meteor caused the sonic boom over Boston; This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors; I went looking for the AI weed vape that gives you Bitcoin for smoking.</description>
