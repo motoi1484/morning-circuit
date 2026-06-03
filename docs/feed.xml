@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 02 Jun 2026 21:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:10:44 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Wednesday, June 03, 2026</title>
+      <description>Top stories: GitLab cuts 14% of staff as it scales its platform to serve AI workloads; Publishers will be able to opt out of AI Search, thanks to new regulation; Dreame’s L20 Ultra robovac is an unbeatable deal for $280; Pokémon Champions hits iOS and Android on June 17; TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup.</description>
+      <pubDate>Tue, 02 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-03.mp3" length="13241088" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-03.mp3</guid>
+      <itunes:duration>32:24</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Tuesday, June 02, 2026</title>
       <description>Top stories: Slate Auto gets serious about privacy for its bare-bones EV pickup; X caters to creators with new ‘React with Video’ feature; Anthropic scales Claude Mythos to critical infrastructure in 15+ countries; Apple’s MacBook Neo is winning over a new generation of buyers; Trump's DOE restarts energy rebate program with dumb conditions.</description>
