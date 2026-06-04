@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 03 Jun 2026 21:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:48:07 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Thursday, June 04, 2026</title>
+      <description>Top stories: Chinese spies are using LinkedIn to lure Westerners into sharing sensitive information; Piers Morgan Says SXSW London ‘Could Have Stood Up’ More for Cenk Uygur After He Was Banned From Entering U.K.: ‘I’m a Bit Disappointed’; TSMC struggles to keep up with AI demand: ‘We can only support so much’; How some data center operators are tackling their water use problems; Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission.</description>
+      <pubDate>Wed, 03 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-04.mp3" length="13859136" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-04.mp3</guid>
+      <itunes:duration>33:46</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Wednesday, June 03, 2026</title>
       <description>Top stories: GitLab cuts 14% of staff as it scales its platform to serve AI workloads; Publishers will be able to opt out of AI Search, thanks to new regulation; Dreame’s L20 Ultra robovac is an unbeatable deal for $280; Pokémon Champions hits iOS and Android on June 17; TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup.</description>
