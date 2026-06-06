@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 05 Jun 2026 20:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 20:30:25 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Saturday, June 06, 2026</title>
+      <description>Top stories: 82-0 is the best basketball game, to hell with NBA 2K; NASA's Nancy Grace Roman Space Telescope is set to launch on August 30; Meta made its own AI-generated clickbait news feed; All the Summer Game Fest showcases you can catch today; The best Kindle alternatives for those looking to ditch Amazon.</description>
+      <pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-06.mp3" length="12431232" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-06.mp3</guid>
+      <itunes:duration>30:22</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Friday, June 05, 2026</title>
       <description>Top stories: The token bill comes due: Inside the industry scramble to manage AI’s runaway costs; Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari.; NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks; The University of Cambridge says it successfully tested a vaccine with an AI-designed antigen; NSA said to be readying Anthropic’s Mythos for use in cyber operations.</description>
