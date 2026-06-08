@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 07 Jun 2026 20:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:57:23 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Monday, June 08, 2026</title>
+      <description>Top stories: Nintendo will pay a $40 million fine for faulty Joy-Cons; Michigan politicians want to ban Chinese-badged cars from even visiting the US; "Chat is dead": OpenAI preps overhaul of ChatGPT; The weather and climate science AI revolution isn’t revolutionary; RIP Anthony Head: Our 10 favorite moments of Buffy’s Giles.</description>
+      <pubDate>Sun, 07 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-08.mp3" length="11481024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-08.mp3</guid>
+      <itunes:duration>28:57</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Sunday, June 07, 2026</title>
       <description>Top stories: Hacked, leaked, and held for ransom: the worst breaches of 2026 so far; How to get your money's worth from YouTube Premium; School shooting survivor sues AI gun detection firm after system failed to spot weapon; US states are reportedly planning to sue to block Paramount's Warner Bros. takeover; Scientists ejected from diabetes conference for distributing journal reprints.</description>
