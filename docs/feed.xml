@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 08 Jun 2026 20:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:46:29 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Tuesday, June 09, 2026</title>
+      <description>Top stories: The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2; Apple brings streaming-style subscription bundles to the App Store; Pokémon Pokopia is getting underwater mechanics and a bunch of paid DLC; Switch 2 exclusive Orbitals arrives September 3; Fire Emblem: Fortune's Weave hits Switch 2 on September 17.</description>
+      <pubDate>Mon, 08 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-09.mp3" length="12146112" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-09.mp3</guid>
+      <itunes:duration>29:41</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Monday, June 08, 2026</title>
       <description>Top stories: Nintendo will pay a $40 million fine for faulty Joy-Cons; Michigan politicians want to ban Chinese-badged cars from even visiting the US; "Chat is dead": OpenAI preps overhaul of ChatGPT; The weather and climate science AI revolution isn’t revolutionary; RIP Anthony Head: Our 10 favorite moments of Buffy’s Giles.</description>
