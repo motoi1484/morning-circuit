@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 09 Jun 2026 20:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:58:57 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Wednesday, June 10, 2026</title>
+      <description>Top stories: The three hard-tech moonshots fueling SpaceX’s unbelievable IPO; Microsoft Office 2019 for Mac will become read-only next month; Pinterest bets on creators with Amazon Storefront integration; Warner Music acquires AI attribution startup Sureel AI; The Social Reckoning trailer features Jeremy Strong as a defiant Mark Zuckerberg.</description>
+      <pubDate>Tue, 09 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-10.mp3" length="14330304" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-10.mp3</guid>
+      <itunes:duration>34:32</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Tuesday, June 09, 2026</title>
       <description>Top stories: The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2; Apple brings streaming-style subscription bundles to the App Store; Pokémon Pokopia is getting underwater mechanics and a bunch of paid DLC; Switch 2 exclusive Orbitals arrives September 3; Fire Emblem: Fortune's Weave hits Switch 2 on September 17.</description>
