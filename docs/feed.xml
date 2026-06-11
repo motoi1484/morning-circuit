@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 10 Jun 2026 20:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:54:40 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Thursday, June 11, 2026</title>
+      <description>Top stories: DoorDash’s new AI chatbot lets you order with prompts and photos; New ‘Kingdom Hearts’ Game, ‘Zelda: Ocarina of Time’ Remake Unveiled During Nintendo Direct (Gaming News Roundup); Endurance Energy raises $54M to harness a massive untapped energy source; Stranger than Heaven hands-on: Harder than Yakuza?; "This cannot continue": Xbox leaders lay out "hard truths" behind sagging brand.</description>
+      <pubDate>Wed, 10 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-11.mp3" length="12863808" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-11.mp3</guid>
+      <itunes:duration>32:02</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Wednesday, June 10, 2026</title>
       <description>Top stories: The three hard-tech moonshots fueling SpaceX’s unbelievable IPO; Microsoft Office 2019 for Mac will become read-only next month; Pinterest bets on creators with Amazon Storefront integration; Warner Music acquires AI attribution startup Sureel AI; The Social Reckoning trailer features Jeremy Strong as a defiant Mark Zuckerberg.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3" length="13534080" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3</guid>
       <itunes:duration>32:47</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Thursday, May 28, 2026</title>
-      <description>Top stories: Here's what Apple's Siri overhaul for iOS 27 could look like; Real-Time AI Video Startup Reactor, Founded by Ex-Apple Engineers, Raises $59 Million From Jeffrey Katzenberg’s WndrCo and Others (EXCLUSIVE); Bad cholesterol slashed 62% by single dose of gene-editing drug in small trial; How to run a local AI chatbot on your iPhone; Olivia Ponton Expands Her Book Podcast to Feature Interviews With Friends, Fans and Celebs as Well as Authors — and She’s Leaning Into the Blonde Stereotype in a ‘Playful’ Way.</description>
-      <pubDate>Wed, 27 May 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-28.mp3" length="11860608" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-28.mp3</guid>
-      <itunes:duration>30:36</itunes:duration>
     </item>
   </channel>
 </rss>
