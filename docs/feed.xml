@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 11 Jun 2026 20:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:49:42 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Friday, June 12, 2026</title>
+      <description>Top stories: Facebook and Instagram appear to be down; SpaceX’s massive IPO: all the latest news; Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’; SpaceX is now public; How to see if Netflix is downgrading your picture quality.</description>
+      <pubDate>Thu, 11 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-12.mp3" length="12689664" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-12.mp3</guid>
+      <itunes:duration>31:54</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Thursday, June 11, 2026</title>
       <description>Top stories: DoorDash’s new AI chatbot lets you order with prompts and photos; New ‘Kingdom Hearts’ Game, ‘Zelda: Ocarina of Time’ Remake Unveiled During Nintendo Direct (Gaming News Roundup); Endurance Energy raises $54M to harness a massive untapped energy source; Stranger than Heaven hands-on: Harder than Yakuza?; "This cannot continue": Xbox leaders lay out "hard truths" behind sagging brand.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3" length="12092352" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3</guid>
       <itunes:duration>30:08</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Friday, May 29, 2026</title>
-      <description>Top stories: At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal; 007 First Light is the stealthy James Bond game I've dreamed of; You can buy two of Anker’s Qi2 wireless chargers for under $25; Today is the last day to apply to speak at TechCrunch Disrupt 2026; How Ferrari bungled the design of its first EV.</description>
-      <pubDate>Thu, 28 May 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3" length="13534080" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-29.mp3</guid>
-      <itunes:duration>32:47</itunes:duration>
     </item>
   </channel>
 </rss>
