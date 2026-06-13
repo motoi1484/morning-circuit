@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 12 Jun 2026 20:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:34:03 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Saturday, June 13, 2026</title>
+      <description>Top stories: Never Post’s Mike Rugnetta on the creative process and the value of reliable power; How to use AirPods to control your iPhone camera; Parker Solar Probe makes another flyby of the sun, solar energy bags a win, and more science stories; Why some USB ports are purple (and why they're rarely sold in the US); Visual Language Models Train Robots to Read Human Emotions.</description>
+      <pubDate>Fri, 12 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-13.mp3" length="11988096" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-13.mp3</guid>
+      <itunes:duration>29:31</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Friday, June 12, 2026</title>
       <description>Top stories: Facebook and Instagram appear to be down; SpaceX’s massive IPO: all the latest news; Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’; SpaceX is now public; How to see if Netflix is downgrading your picture quality.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3" length="13158720" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3</guid>
       <itunes:duration>33:04</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Saturday, May 30, 2026</title>
-      <description>Top stories: The groupthink boom: what three top VCs really think about the AI frenzy; Listen to the new Steam Controller buzz to the tune of Doom; Pebblebee’s Halo watches my back and my belongings; The Arduboy FX-C is an excellent time killer you might forget you’re carrying; 5 Fitness Trackers That Don't Lock Core Features Behind a Monthly Subscription.</description>
-      <pubDate>Fri, 29 May 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3" length="12092352" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-30.mp3</guid>
-      <itunes:duration>30:08</itunes:duration>
     </item>
   </channel>
 </rss>
