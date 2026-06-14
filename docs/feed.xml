@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 13 Jun 2026 20:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:33:32 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Sunday, June 14, 2026</title>
+      <description>Top stories: The new Sonos Play has become my go-to desk and kitchen speaker; The impossible dream of the universal remote; Apple TV 4K multiview: How to watch four live sports feeds at once; Solid-state batteries still aren’t ready, but gels are; As Anthropic suspends access to new models, India debates its AI future.</description>
+      <pubDate>Sat, 13 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-14.mp3" length="11720064" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-14.mp3</guid>
+      <itunes:duration>29:42</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Saturday, June 13, 2026</title>
       <description>Top stories: Never Post’s Mike Rugnetta on the creative process and the value of reliable power; How to use AirPods to control your iPhone camera; Parker Solar Probe makes another flyby of the sun, solar energy bags a win, and more science stories; Why some USB ports are purple (and why they're rarely sold in the US); Visual Language Models Train Robots to Read Human Emotions.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-01.mp3" length="13891008" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-01.mp3</guid>
       <itunes:duration>34:54</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Sunday, May 31, 2026</title>
-      <description>Top stories: 007 First Light is already discounted for the PS5 and Steam; Marathon’s second season is a chance for Bungie to turn things around; NASA confirms exploding meteor caused the sonic boom over Boston; This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors; I went looking for the AI weed vape that gives you Bitcoin for smoking.</description>
-      <pubDate>Sat, 30 May 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3" length="13158720" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-05-31.mp3</guid>
-      <itunes:duration>33:04</itunes:duration>
     </item>
   </channel>
 </rss>
