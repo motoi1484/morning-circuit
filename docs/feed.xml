@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 15 Jun 2026 21:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:08:28 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Tuesday, June 16, 2026</title>
+      <description>Top stories: Commodore made a social media-banishing flip phone; Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it; SpaceX is buying AI coding startup Cursor for $60 billion; Xbox Game Pass additions for late June include EA Sports FC 26 and RV There Yet?; Mobileye is entering the US robotaxi market with standalone service.</description>
+      <pubDate>Mon, 15 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-16.mp3" length="13110144" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-16.mp3</guid>
+      <itunes:duration>32:14</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Monday, June 15, 2026</title>
       <description>Top stories: SpaceX’s biggest-ever IPO just grew to $85.7 billion raised; My favorite Qi2 power bank is cheaper than ever for Verge readers; UK unveils sweeping social media ban for users under 16; Salesforce acquires AI customer service platform Fin for $3.6 billion; Russia appears set to finally address long-term, serious space station cracks.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-03.mp3" length="13241088" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-03.mp3</guid>
       <itunes:duration>32:24</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Tuesday, June 02, 2026</title>
-      <description>Top stories: Slate Auto gets serious about privacy for its bare-bones EV pickup; X caters to creators with new ‘React with Video’ feature; Anthropic scales Claude Mythos to critical infrastructure in 15+ countries; Apple’s MacBook Neo is winning over a new generation of buyers; Trump's DOE restarts energy rebate program with dumb conditions.</description>
-      <pubDate>Mon, 01 Jun 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-02.mp3" length="13074240" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-02.mp3</guid>
-      <itunes:duration>32:27</itunes:duration>
     </item>
   </channel>
 </rss>
