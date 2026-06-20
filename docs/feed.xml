@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 19 Jun 2026 20:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 20:33:40 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Saturday, June 20, 2026</title>
+      <description>Top stories: Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG; Car manufacturers are ditching Android Auto in 2026: Here's why; Toy Story has the right take on tech; Nothing's budget brand CMF won't be releasing a new phone this year; The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed.</description>
+      <pubDate>Fri, 19 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-20.mp3" length="13757568" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-20.mp3</guid>
+      <itunes:duration>34:13</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Friday, June 19, 2026</title>
       <description>Top stories: The NTS Radio Player brings the best of internet radio to your hi-fi; The film about Sam Altman has been dropped by Amazon MGM; Our long national sunscreen nightmare is almost over; Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars; Why people might ditch their smartwatches for something simpler.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-07.mp3" length="12584640" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-07.mp3</guid>
       <itunes:duration>32:18</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Saturday, June 06, 2026</title>
-      <description>Top stories: 82-0 is the best basketball game, to hell with NBA 2K; NASA's Nancy Grace Roman Space Telescope is set to launch on August 30; Meta made its own AI-generated clickbait news feed; All the Summer Game Fest showcases you can catch today; The best Kindle alternatives for those looking to ditch Amazon.</description>
-      <pubDate>Fri, 05 Jun 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-06.mp3" length="12431232" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-06.mp3</guid>
-      <itunes:duration>30:22</itunes:duration>
     </item>
   </channel>
 </rss>
