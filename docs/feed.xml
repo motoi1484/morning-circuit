@@ -7,7 +7,15 @@
     <description>A daily English-language briefing on entertainment-tech, robotics, and IT — the previous day's news, auto-generated for your commute.</description>
     <itunes:author>The Morning Circuit</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 20 Jun 2026 20:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 20:36:53 +0000</lastBuildDate>
+    <item>
+      <title>The Morning Circuit — Sunday, June 21, 2026</title>
+      <description>Top stories: Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27; Polymarket reportedly paid people to post fake videos of themselves placing bets; How Roomba started a robot revolution; Electric air taxis are stuck in the courtroom; Sony’s Xperia 1 VIII is still a phone for the fans.</description>
+      <pubDate>Sat, 20 Jun 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-21.mp3" length="12188544" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>31:28</itunes:duration>
+    </item>
     <item>
       <title>The Morning Circuit — Saturday, June 20, 2026</title>
       <description>Top stories: Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG; Car manufacturers are ditching Android Auto in 2026: Here's why; Toy Story has the right take on tech; Nothing's budget brand CMF won't be releasing a new phone this year; The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed.</description>
@@ -111,14 +119,6 @@
       <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-08.mp3" length="11481024" type="audio/mpeg"/>
       <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-08.mp3</guid>
       <itunes:duration>28:57</itunes:duration>
-    </item>
-    <item>
-      <title>The Morning Circuit — Sunday, June 07, 2026</title>
-      <description>Top stories: Hacked, leaked, and held for ransom: the worst breaches of 2026 so far; How to get your money's worth from YouTube Premium; School shooting survivor sues AI gun detection firm after system failed to spot weapon; US states are reportedly planning to sue to block Paramount's Warner Bros. takeover; Scientists ejected from diabetes conference for distributing journal reprints.</description>
-      <pubDate>Sat, 06 Jun 2026 21:00:00 +0000</pubDate>
-      <enclosure url="https://motoi1484.github.io/morning-circuit/episodes/2026-06-07.mp3" length="12584640" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://motoi1484.github.io/morning-circuit/episodes/2026-06-07.mp3</guid>
-      <itunes:duration>32:18</itunes:duration>
     </item>
   </channel>
 </rss>
